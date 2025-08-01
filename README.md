@@ -14,7 +14,8 @@ A cross-platform Python GUI tool that scans a folder and detects duplicate files
 ```bash
 pip install -r requirements.txt
 python duplicates.py
+```
 
-## OR
+OR
 
 Install directly using DuplicateFinder.exe for windows and DuplicateFinder.dmg for MacOS
